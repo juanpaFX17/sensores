@@ -1,0 +1,2 @@
+sr1, digital, 5
+sr2, analog, 3
